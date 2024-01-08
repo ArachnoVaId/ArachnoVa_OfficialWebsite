@@ -12,18 +12,21 @@ export default function Hero() {
           <div className="text-[1.6vw]">Arachnova </div>
           <div className="text-[2vw]">Your Web Design Partner</div>
           <div className="text-[2.8vw]">Always Dependable</div>
-          <div className="text-[#4E5F66]">Crafting Digital Presence in Every Strand of Code</div>
-          <div>
-            <div className="w-[4vw] h-[4vh] bg-[#2EC1D9]">
-
+          <div className="text-[1.2vw] text-[#4E5F66]">Crafting Digital Presence in Every Strand of Code</div>
+          <div className="py-[2vh] flex gap-[1vw]">
+            <div className="w-[8vw] h-[4vh] bg-[#2EC1D9] text-white rounded-md text-[0.8vw] flex justify-center items-center ">
+                Start Your Project 
+            </div>
+            <div className="w-[10vw] h-[4vh] bg-transparent text-[#1CA7BD] rounded-md text-[0.8vw] flex justify-center items-center">
+                Discover Our Services 
             </div>
           </div>
         </div>
         <div>
-          <div className="bg-transparent backdrop-blur-lg w-[28vw] h-[40vh] rounded-lg border-4 border-[#F1F5F9] ml-[4vw] ">
-            <div className="px-[1vw] py-[4vh]">
+          <div className="bg-transparent backdrop-blur-lg w-[28vw] h-[25vw] rounded-lg border-4 border-[#F1F5F9] ml-[4vw] ">
+            <div className="px-[1vw] py-[2vw] text-[1vw]">
               <p className="text-[#0151EC]">
-                import <span className="text-[#8131B2]"> "./globals.css";</span>
+                import <span className="text-[#8131B2] "> "./globals.css";</span>
               </p>
               <p className="text-[#1E293B]">
                 <span className="text-[#0151EC]">import</span> &#123;{" "}
