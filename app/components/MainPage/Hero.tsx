@@ -26,8 +26,11 @@ export default function Hero() {
         </div>
 
         <div className="bg-transparent backdrop-blur-lg w-[28vw] h-[20vw] rounded-lg border-2 border-[#F1F5F9] relative ">
-          <div className="absolute w-[20vw] h-[4vw] bg-white rounded-md -bottom-[2vw] -right-[2vw] text-[1vw] flex justify-center items-center border-2 border-[#E2E8F0]">
-            @arachnova official-site @ npm run dev
+          <div className="absolute w-[20vw] h-[4vw] bg-white rounded-md -bottom-[2vw] -right-[2vw] text-[1vw] flex justify-center items-center border-2 border-[#E2E8F0] gap-x-[0.4vw]">
+            <span className="text-[#8131B2]">@arachnova</span> 
+            <span className="text-[#0151EC]">official-site</span>
+            <span className="text-[#1CA7BD]">@</span>
+            npm run dev
           </div>
           <div className="px-[1vw] py-[2vw] text-[1vw]/[1.3vw]">
             <p className="text-[#0151EC]">
