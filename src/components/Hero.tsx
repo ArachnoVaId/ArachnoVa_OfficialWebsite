@@ -12,11 +12,11 @@ export default function Hero() {
           <div className="text-[1.6vw]">Arachnova </div>
           <div className="text-[2vw]">Your Web Design Partner</div>
           <div className="text-[2.8vw]">Always Dependable</div>
-          <div className="text-[#4E5F66]">Crafting Digital Presence in Every Strand of Code</div>
+          <div className="text-[#4E5F66]">
+            Crafting Digital Presence in Every Strand of Code
+          </div>
           <div>
-            <div className="w-[4vw] h-[4vh] bg-[#2EC1D9]">
-
-            </div>
+            <div className="w-[4vw] h-[4vh] bg-[#2EC1D9]"></div>
           </div>
         </div>
         <div>
